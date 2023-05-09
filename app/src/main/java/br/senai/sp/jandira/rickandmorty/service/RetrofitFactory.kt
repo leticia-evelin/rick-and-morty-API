@@ -16,6 +16,7 @@ class RetrofitFactory {
         .build()
 
     fun getCharacterService(): CharacterService{
+        //retorna a implementacao de uma classe com os metodos para fazer a chamada para API
         return retrofitFactory.create(CharacterService::class.java)
     }
 
