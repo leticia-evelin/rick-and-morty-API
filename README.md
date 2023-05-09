@@ -1,3 +1,3 @@
 # rick-and-morty-API
 
-<img width=" 1815" alt "screenshot" scr = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60c600c1-df08-4d3d-a7f7-8348ed0d07be/Captura_de_Tela_2023-05-09_as_11.14.25.png">
+<img width="2407" alt="Captura de Tela 2023-05-09 às 11 20 49" src="https://github.com/leticia-evelin/rick-and-morty-API/assets/110065732/01d845e6-63c2-433d-9c5e-3469c5e5da01">
